@@ -1,3 +1,16 @@
+#模型文件
+*.pkl
+
+#输出文件
+*.pdf
+
+#数据集
+*.csv
+*.txt
+
+#word临时文件
+~$*
+
 # ---> JupyterNotebooks
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
