@@ -5,8 +5,11 @@
 *.pdf
 
 #数据集
-fashion-mnist_train.csv
+*.csv
 *.txt
+
+
+test.*
 
 #word临时文件
 ~$*
