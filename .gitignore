@@ -5,7 +5,7 @@
 *.pdf
 
 #数据集
-*.csv
+fashion-mnist_train.csv
 *.txt
 
 #word临时文件
